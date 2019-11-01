@@ -2,5 +2,5 @@
 
 Funcionalidades incluídas além das requisitadas pelo desafio:
 
-1. Indicador de loading para os scroll intens
+1. Indicador de loading para novos itens no após o scroll
 2. Indicador de loading para a Webview do repositório
